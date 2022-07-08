@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@hint/hint-no-inline-styles": "^1.0.11",
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.0-beta1"
+  }
+}

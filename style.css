@@ -1,0 +1,36 @@
+body
+{
+  background-image: 100px;
+   height: 100px;
+}
+header {
+
+    display:block;
+    background: scroll;
+    padding:10px 0px;
+}
+  nav {
+     width: 79%;
+     background: rgb(53, 144, 185);
+     float: left;
+     overflow: auto;
+     padding-bottom: 60px;
+     padding-top:30px;
+  }
+  section {
+    float: right;
+    border: 1px solid red;
+    width:19%;
+    border: 1px solid blueviolet;
+  }
+  footer {
+    position: relative;
+    margin-top:-50px;
+    height: 40px;
+    padding:5px 0px;
+    clear: both;
+    background: #885252;
+    text-align:center;
+    color:coral;
+
+  }
